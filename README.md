@@ -1,2 +1,2 @@
-# Kaggle
+# study
 for Kaggle
